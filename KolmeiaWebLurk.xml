@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KolmeiaWebLurk
+</name>
+</assembly>
+<members>
+<member name="T:KolmeiaWebLurk.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Custom_Icon_Design_Pretty_Office_8_Sound_on_256">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.DRAGONS_logo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Eternos_Login">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.fusohorario">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.fusohorario1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.kolmeia_Login">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.login_Rangers">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.logo_login">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.logo_p">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.logo_p1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.logo_p2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.logo_tgm">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.m">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.music_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Network_Download_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Network_Service_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Sem_Titulo_2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Sem_Titulo_2___Copia">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre_01">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre21">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre4">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre5">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre6">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.sobre7">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Start_Menu_Internet_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Start_Menu_Undock_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.Symbols_Error_icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_mute">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_mute_fill">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_mute2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_mute3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_mute4">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:KolmeiaWebLurk.My.Resources.Resources.volume_up2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
