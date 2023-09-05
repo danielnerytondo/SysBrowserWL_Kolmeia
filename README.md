@@ -23,7 +23,7 @@ No entanto, se você estiver usando este projeto e estiver satisfeito com ele ou
 * [Versão 1.0.0.31p](http://kolmeia.live/weblurk)
 * Crie uma pasta no seu computador para esse programa, recomendo colocar o nome **Sys_weblurk**
 * Descompacte o arquivo baixado na pasta criada
-* Abra a pasta  e seleciona `Alphaweblurk10032p.exe` e pressione `enter` para execultar
+* Abra a pasta  e seleciona `KolmeiaWebLurk.exe` e pressione `enter` para execultar
 
 ### **2. Caso seja necessario Instale as ferramentas necessarias.**
 
